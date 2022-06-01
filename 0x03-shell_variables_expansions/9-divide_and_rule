@@ -1,1 +1,1 @@
-#!/bin/bash
+ #!/bin/bashecho $(($POWER/$DIVIDE)) 
